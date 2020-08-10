@@ -1,0 +1,21 @@
+{
+  "name": "boiler-plate",
+  "version": "1.0.0",
+  "description": "mern-boiler plate",
+  "main": " ",
+  "scripts": {
+    "start": "node index.js",
+    "backend": "nodemon index.js"
+  },
+  "author": "Ranjitha S",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.28"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
